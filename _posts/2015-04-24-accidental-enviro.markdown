@@ -15,7 +15,7 @@ published: true
 ### Yukon News
 ### Friday April 24, 2015
 
-If we judge Premier Darrell Pasloski by his deeds, rather than his words, it’s possible to view him as one of the Yukon’s most accomplished environmentalists. <!--BREAK-->
+If we judge Premier Darrell Pasloski by his deeds, rather than his words, it’s possible to view him as one of the Yukon’s most accomplished environmentalists. <!-- BREAK -->
 
 After all, the premier has quite possibly done more than anyone to protect the Peel watershed from development, obstruct the controversial practice of hydraulic fracturing from being performed here, and to strangle the flow of cash to mining companies operating in the territory.
 
