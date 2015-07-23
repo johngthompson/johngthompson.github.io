@@ -13,6 +13,7 @@ description: "Cool stories about Canada's North"
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        <p> {{ post.excerpt }} </p>
     </a>
     <p class="post-meta">{{post.category}} – {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
