@@ -1,0 +1,15 @@
+# Site settings
+title: John Thompson
+header-img: img/home-bg.jpg
+description: "John Thompson's journalism portfolio. Yukon News editor. Cool stories from northern Canada."
+baseurl: ""
+url: "johngthompson.github.io"
+twitter_username: jayjeetee
+linkedin_username: johngthompson
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
