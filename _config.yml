@@ -6,7 +6,7 @@ baseurl: ""
 url: "johngthompson.github.io"
 twitter_username: jayjeetee
 linkedin_username: johngthompson
-excerpt_separator: "<!--BREAK-->"
+excerpt_separator: "<!-- BREAK -->"
 
 # Build settings
 markdown: kramdown
