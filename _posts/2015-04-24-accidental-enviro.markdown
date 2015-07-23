@@ -1,17 +1,19 @@
 ---
-layout:		post
-title:		The accidental environmentalist
-category:	Opinion
-date:		2015-04-24
+layout: post
+title: The accidental environmentalist
+category: Opinion
+date: {}
 tags: 
-- Yukon
-- politics
-- environment
+  - Yukon
+  - politics
+  - environment
+published: true
 ---
-## EDITORIAL ##
-# [The accidental environmentalist](http://yukon-news.com/letters-opinions/the-accidental-environmentalist/)#
-### Yukon News###
-### Friday April 24, 2015 ###
+
+## EDITORIAL
+# [The accidental environmentalist](http://yukon-news.com/letters-opinions/the-accidental-environmentalist/)
+### Yukon News
+### Friday April 24, 2015
 
 If we judge Premier Darrell Pasloski by his deeds, rather than his words, it’s possible to view him as one of the Yukon’s most accomplished environmentalists.
 
