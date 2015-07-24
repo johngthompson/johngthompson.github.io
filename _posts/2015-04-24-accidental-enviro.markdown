@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	The accidental environmentalist
+author:     "Yukon News editorial"
 category:	Opinion
 date:	2015-04-24
 tags: 
@@ -9,8 +10,6 @@ tags:
   - environment
 published: true
 ---
-
-**EDITORIAL**
 
 If we judge Premier Darrell Pasloski by his deeds, rather than his words, it’s possible to view him as one of the Yukon’s most accomplished environmentalists. <!-- BREAK -->
 
