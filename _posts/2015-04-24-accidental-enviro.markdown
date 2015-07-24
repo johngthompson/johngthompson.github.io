@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The accidental environmentalist
-category: Opinion
-date: 2015-04-24
+layout:	post
+title:	The accidental environmentalist
+category:	Opinion
+date:	2015-04-24
 tags: 
   - Yukon
   - politics
@@ -10,10 +10,7 @@ tags:
 published: true
 ---
 
-## EDITORIAL
-# [The accidental environmentalist](http://yukon-news.com/letters-opinions/the-accidental-environmentalist/)
-### Yukon News
-### Friday April 24, 2015
+**EDITORIAL**
 
 If we judge Premier Darrell Pasloski by his deeds, rather than his words, it’s possible to view him as one of the Yukon’s most accomplished environmentalists. <!-- BREAK -->
 
@@ -38,5 +35,3 @@ To top it off, it now it looks quite likely the premier will succeed in persuadi
 Yukon’s Conservative MP and senator also deserve a nod for their ongoing efforts to kick the feet out from beneath industry, as the disputed bill is, after all, federal jurisdiction. But half of the disputed proposals, introduced late in the game and with little First Nation consultation, were dreamed up by Pasloski’s government. And the premier is the guy who remains adamant that these changes become law, regardless of whether this sets off another big lawsuit, as First Nations promise it will.
 
 The folks at the Yukon Conservation Society must be green with envy. They wouldn’t dream of accomplishing such feats by themselves. Nor would the territory’s New Democrats swing so big. No, such feats are only within the reach of a development-minded premier who practises diplomacy at times with such staggering incompetence, much of what he aims to do ends up achieving its opposite effect.
-
-**(JT)**

@@ -12,5 +12,5 @@ excerpt_separator: "<!-- BREAK -->"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-# paginate: 5
+paginate: 50
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
