@@ -2,7 +2,7 @@
 layout: post
 title: The accidental environmentalist
 category: Opinion
-date: {}
+date: 2015-04-24
 tags: 
   - Yukon
   - politics
