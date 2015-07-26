@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	The accidental environmentalist
-author:     "Yukon News editorial"
+author:     Yukon News editorial
 category:	Opinion
 date:	2015-04-24
 tags: 
