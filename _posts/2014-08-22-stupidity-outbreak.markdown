@@ -1,12 +1,14 @@
 ---
 layout:	post
 title:	Stupidity outbreak mars Harper’s visit
+subtitle: Canadian Community Newspaper Association's best editorial of 2014; BC-Yukon Community Newspaper Association's best national editorial
 author:     Yukon News editorial
 category:	Opinion
 date:	2014-08-22
 tags: 
   - Yukon
   - politics
+  - awards
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Cool stories about Canada's North"
+description: "Cool stories from Canada's North"
 ---
 
 {% for post in paginator.posts %}
@@ -15,7 +15,7 @@ description: "Cool stories about Canada's North"
         {% endif %}
         {{ post.excerpt }}
     </a>
-    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}, {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
