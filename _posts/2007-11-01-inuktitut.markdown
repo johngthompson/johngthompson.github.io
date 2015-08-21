@@ -2,6 +2,7 @@
 layout:	post
 title:	One small city's big language divide
 subtitle:	If you speak only Inuktitut in Iqaluit, visiting a pharmacy could be life-threatening
+awards: Part of a series that won the Quebec Community Newspaper Association's award for best investigative or in-depth reporting
 author:     Nunatsiaq News
 category:	Enterprise
 date:	2007-11-01

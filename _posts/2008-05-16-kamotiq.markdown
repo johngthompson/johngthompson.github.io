@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	Last call for Iqaluit’s boozy misfit magnet
+awards: Winner of the Quebec Community Newspaper Association's award for best feature story
 subtitle:	“It’s done. It’s gone, it’s finished, it’s over with.”
 author:     Nunatsiaq News
 category:	Features

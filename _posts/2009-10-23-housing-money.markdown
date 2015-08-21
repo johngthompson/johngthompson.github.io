@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	Affordable housing money lined politicos’ pockets
+awards: Winner of BC-Yukon Community Newspaper Association's award for outstanding reporter initiative
 author:     Yukon News
 category:	Enterprise
 date:	2009-10-23

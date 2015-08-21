@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	New meaning to low standards
+awards: Winner of the Canadian Community Newspaper Association's award for best editorial,<br>and the BC-Yukon Community Newspaper Association's award for best local editorial
 author:     Yukon News editorial
 category:	Opinion
 date:	2013-12-20

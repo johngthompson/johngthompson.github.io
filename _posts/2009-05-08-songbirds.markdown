@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	Meet Yukon’s tiniest musicians
+description: Winner of the BC-Yukon Community Newspaper Association's award for best outdoor recreational writing
 author:     Yukon News
 category:	Features
 date:	2009-05-08

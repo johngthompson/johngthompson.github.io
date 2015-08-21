@@ -13,9 +13,14 @@ description: "Cool stories from Canada's North"
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        {% if post.awards %}
+        <i><h4 class="post-awards">
+            {{ post.awards }}
+        </h4></i>
+        {% endif %}
         {{ post.excerpt }}
     </a>
-    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta"><b>{{post.category}}</b> • {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
