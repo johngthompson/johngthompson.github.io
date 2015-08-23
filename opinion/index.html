@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "Opinions"
-description: "My own prejudiced views."
+description: "My own prejudiced views"
 ---
 
-<p>Sorry, I'm still working on organizing articles by category. Your patience is appreciated.</p>
-
-{% for post in site.categories.OPINION %}
-
+<ul class="posts">
+{% for post in site.posts %}
+    {% if post.categories contains 'opinion' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -26,43 +25,6 @@ description: "My own prejudiced views."
     </a>
     <p class="post-meta"><b>{{post.category}}</b> • {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
-<hr>
+<hr>    {% endif %}
 {% endfor %}
-
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        {% if post.awards %}
-        <i><h4 class="post-awards">
-            {{ post.awards }}
-        </h4></i>
-        {% endif %}
-        {{ post.excerpt }}
-    </a>
-    <p class="post-meta"><b>{{post.category}}</b> • {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
-</div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
 </ul>
-{% endif %}
