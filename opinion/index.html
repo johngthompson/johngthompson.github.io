@@ -1,0 +1,30 @@
+---
+layout: page
+Title: "Opinion"
+Description: "My own prejudiced views."
+---
+
+<p>Is this page doing its thing?</p>
+
+{% for post in site.categories.Opinion %}
+
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        {% if post.awards %}
+        <i><h4 class="post-awards">
+            {{ post.awards }}
+        </h4></i>
+        {% endif %}
+        {{ post.excerpt }}
+    </a>
+    <p class="post-meta"><b>{{post.category}}</b> • {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} • {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
