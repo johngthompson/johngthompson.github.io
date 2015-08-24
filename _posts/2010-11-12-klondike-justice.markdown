@@ -8,6 +8,7 @@ date:	2010-11-12
 tags: 
   - Yukon
   - history
+  - awards
 published: true
 ---
 

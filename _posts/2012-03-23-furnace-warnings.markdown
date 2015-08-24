@@ -1,13 +1,14 @@
 ---
 layout:	post
 title:	Furnace warnings kept under wraps
-awards: Part of a series that won the Canadian Community Newspaper Association's <br>award for best reporter initiative
+awards: Part of a series that won the Canadian Community Newspaper Association's award for best reporter initiative
 author:     Yukon News
 category:	Enterprise
 date:	2012-03-23
 tags: 
   - Yukon
   - politics
+  - awards
 published: true
 ---
 

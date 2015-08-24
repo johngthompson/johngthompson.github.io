@@ -8,6 +8,7 @@ category:	Enterprise
 date:	2007-11-01
 tags: 
   - Nunavut
+  - awards
 published: true
 ---
 

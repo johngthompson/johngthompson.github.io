@@ -8,6 +8,7 @@ date:	2009-10-23
 tags: 
   - Yukon
   - Politics
+  - awards
 published: true
 ---
 

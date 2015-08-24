@@ -8,6 +8,7 @@ category:	Features
 date:	2006-06-02
 tags: 
   - Nunavut
+  - awards
 published: true
 ---
 
