@@ -11,8 +11,6 @@ tags:
 published: true
 ---
 
-JOHN THOMPSON
-
 **RESOLUTE BAY** - It's a most unusual way of protecting your children, but if you're a female common eider duck, you don't have a sharp beak or other weapon, other than what you've just eaten.
 
 "Aww, she just shat," says Mark Mallory with the Canadian Wildlife Service researcher as he approaches an eider nest June 5, shortly after the female flapped off.
