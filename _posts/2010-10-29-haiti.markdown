@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Good to be bad in Haiti
-author:     Yukon News
+publication:     Yukon News
 category:	Features
 date:	2010-10-29
 tags: 

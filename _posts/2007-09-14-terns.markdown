@@ -2,7 +2,7 @@
 layout:	post
 title:	One good tern preserves another
 subtitle:	Threaten one of these remarkable Arctic birds and you’ll soon be attacked by a bunch of its mates
-author:     Nunatsiaq News
+publication:     Nunatsiaq News
 category:	Features
 date:	2007-09-14
 tags: 

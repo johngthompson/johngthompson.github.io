@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Where it all started
-author:     Yukon News
+publication:     Yukon News
 category:	Features
 date:	2011-07-15
 tags: 

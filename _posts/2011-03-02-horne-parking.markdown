@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Horne’s handicapped parking pickle
-author:     Yukon News
+publication:     Yukon News
 category:	Enterprise
 date:	2011-03-02
 tags: 

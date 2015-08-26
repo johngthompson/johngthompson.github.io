@@ -2,7 +2,7 @@
 layout:	post
 title:	Where adults play spacemen
 subtitle:	Seven grownups are spending the summer in the High Arctic pretending they’re on a Mars expedition
-author:     Nunatsiaq News
+publication:     Nunatsiaq News
 category:	Features
 date:	2007-08-03
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Deputy disagrees with salary secrecy
-author:     Yukon News
+publication:     Yukon News
 category:	Enterprise
 date:	2009-02-27
 tags: 

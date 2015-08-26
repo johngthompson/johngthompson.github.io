@@ -2,7 +2,7 @@
 layout:	post
 title:	Hoping to get lucky, ducky?
 subtitle:	Male eiders hang around while females nest for the most selfish of reasons – it increases their chances of having sex
-author:     Nunatsiaq News
+publication:     Nunatsiaq News
 category:	Features
 date:	2007-08-03
 tags: 

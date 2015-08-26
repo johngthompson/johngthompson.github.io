@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Lose wolves, lose the wilderness
-author:     Yukon News
+publication:     Yukon News
 category:	Features
 date:	2011-01-14
 tags: 

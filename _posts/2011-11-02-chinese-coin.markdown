@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Chinese coin presents riddle in Yukon bush
-author:     Yukon News
+publication:     Yukon News
 category:	Features
 date:	2011-11-02
 tags: 

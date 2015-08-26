@@ -2,7 +2,7 @@
 layout:	post
 title:	Stupidity outbreak mars Harper’s visit
 awards: Winner of the Canadian Community Newspaper Association's award for best national editorial
-author:     Yukon News editorial
+publication:     Yukon News editorial
 category:	Opinion
 date:	2014-08-22
 tags: 

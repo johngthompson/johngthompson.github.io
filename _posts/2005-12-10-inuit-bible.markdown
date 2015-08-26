@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Opening the secret bible of the Inuit
-author:     Globe and Mail
+publication:     Globe and Mail
 category:	Features
 date:	2005-12-10
 tags: 
