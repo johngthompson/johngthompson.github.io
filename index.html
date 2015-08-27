@@ -35,7 +35,7 @@ description: "Cool stories from Canada's North"
         {% endif %}
         {{ post.excerpt }}
     </a>
-    <p class="post-category"><b><a href="/{{post.category}}">{{post.category}}</a></b><class="post-meta"> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-category"><b><a href="/{{post.category | slugify}}"/>{{post.category}}</a></b><class="post-meta"> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
