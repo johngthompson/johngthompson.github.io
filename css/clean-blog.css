@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #ff9900;
+  color: #808080;
 }
 a img:hover,
 a img:focus {
@@ -114,14 +114,14 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #ff9900;
+    color: #808080;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #ff9900;
+    color: #808080;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -216,7 +216,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #ff9900;
+  color: #808080;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -239,9 +239,12 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #ff9900;
+  color: #808080;
   text-decoration: underline;
 }
+.post-preview > .post-category > a {
+  text-transform: uppercase;
+  color: ##808080;
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
@@ -319,7 +322,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #ff9900;
+  color: #808080;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -339,8 +342,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #ff9900;
-  border: 1px solid #ff9900;
+  background-color: #808080;
+  border: 1px solid #808080;
   color: white;
 }
 .pager {
@@ -367,8 +370,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #ff9900;
-  border: 1px solid #ff9900;
+  background-color: #808080;
+  border: 1px solid #808080;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -381,12 +384,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #ff9900;
+  background: #808080;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #ff9900;
+  background: #808080;
 }
 img::selection {
   color: white;
@@ -397,5 +400,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #ff9900;
+  webkit-tap-highlight-color: #808080;
 }

@@ -3,7 +3,7 @@ layout: page
 description: "Cool stories from Canada's North"
 ---
 
-</p><b>This website remains a work in progress. Bear with me.</h4></b>
+</p><i>This website remains a work in progress. Bear with me.</p></i>
 
 <p>I'm the editor of the <a href="http://yukon-news.com">Yukon News</a>. This site features some of my better writing from a decade of reporting and opinion-mongering in northern Canada.</p>
 
@@ -35,7 +35,7 @@ description: "Cool stories from Canada's North"
         {% endif %}
         {{ post.excerpt }}
     </a>
-    <p class="post-meta"><b>{{post.category}}</b> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-category"><b>{{post.category}}</b><class="post-meta"> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
