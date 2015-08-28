@@ -3,7 +3,7 @@ layout:	post
 title:	Resolute Bay&#58; Arctic City of the Future?
 subtitle:	A dome over Iqaluit? There have been stranger ideas
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2005-12-23
 tags: 
   - Nunavut

@@ -3,7 +3,7 @@ layout:	post
 title:	Nunavut's projectile pukers
 subtitle:	Meet the fulmar, a bird with the most offensive defence
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2005-09-02
 tags: 
   - Nunavut

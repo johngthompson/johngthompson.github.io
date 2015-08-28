@@ -3,7 +3,7 @@ layout:	post
 title:	Rebuilding remains of Thule settlement sheds light on ancient Nunavut culture
 subtitle:	Archaeologists aim to restore plundered past
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2007-07-19
 tags: 
   - Nunavut

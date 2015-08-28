@@ -3,9 +3,9 @@ layout:	post
 title:	Blooming time
 subtitle:	Flowers flourish at Iqaluit's sewage lagoon
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2005-06-29
-tags: 
+tags:
   - Nunavut
   - Environment
 published: true

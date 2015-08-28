@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Stuck with $20,000 medevac bill, man needs a hand, gets a kick
-awards: Part of a series that won the BC-Yukon Community Newspaper Association's award for best feature series, and led to a man's financially crippling medical bill being overturned
+awards: Part of a series that won the BC-Yukon Community Newspaper Association's award for best features series, and led to a man's financially crippling medical bill being overturned
 publication:     Yukon News
 category:	Enterprise
 date:	2009-05-29

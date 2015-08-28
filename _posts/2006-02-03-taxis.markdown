@@ -3,8 +3,8 @@ layout:	post
 title:	Life in the passing-out lane
 subtitle:	Jean-Eudes Roy puts up with people who fight, urinate, vomit and pass out in his car. He earns $5 a trip.
 publication:     Nunatsiaq News
-awards: Winner of the Quebec Community Newspaper Association's award for best feature story
-category:	Features
+awards: Winner of the Quebec Community Newspaper Association's award for best features story
+category:	features
 date:	2006-02-03
 tags: 
   - Nunavut

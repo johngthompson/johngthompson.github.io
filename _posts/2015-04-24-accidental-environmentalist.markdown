@@ -2,7 +2,7 @@
 layout:	post
 title:	The accidental environmentalist
 publication:     Yukon News editorial
-category:	Opinion
+category:	opinions
 date:	2015-04-24
 tags: 
   - Yukon

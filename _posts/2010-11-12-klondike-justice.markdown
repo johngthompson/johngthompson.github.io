@@ -3,7 +3,7 @@ layout:	post
 title:	Bones discovered in Yukon tell tale of Klondike justice
 awards: The original version of this story won the Canadian Community Newspaper Association's award for best historical story. This later version was printed in the Globe and Mail.
 publication:     Globe and Mail
-category:	Features
+category:	features
 date:	2010-11-12
 tags: 
   - Yukon

@@ -4,7 +4,7 @@ title:	No joy in Trashville
 subtitle:	What’s the difference between Nunavut’s capital and a garbage dump? Not much.
 awards: Winner of the Quebec Community Newspaper Association's award for best municipal reporting
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2006-06-02
 tags: 
   - Nunavut

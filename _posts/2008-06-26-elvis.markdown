@@ -3,7 +3,7 @@ layout:	post
 title:	Jimmy Ekho&#58; The unchained melody falls silent
 subtitle:	Iqaluit’s Arctic Elvis, dead at 48
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2008-06-26
 tags: 
   - Nunavut

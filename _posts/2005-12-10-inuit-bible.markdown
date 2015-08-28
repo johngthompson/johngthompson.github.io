@@ -2,7 +2,7 @@
 layout:	post
 title:	Opening the secret bible of the Inuit
 publication:     Globe and Mail
-category:	Features
+category:	features
 date:	2005-12-10
 tags: 
   - Nunavut

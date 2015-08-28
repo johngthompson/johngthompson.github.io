@@ -3,7 +3,7 @@ layout:	post
 title:	How Greenland curbed alcohol abuse
 subtitle:	Allowing beer, wine sales key to moderating drinking
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2007-06-29
 tags: 
   - Nunavut

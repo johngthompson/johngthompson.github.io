@@ -3,7 +3,7 @@ layout:	post
 title:	The guys who went out in the cold
 subtitle:	When a bunch of soldiers from the South try to survive in the Arctic, they screw up their igloo and catch fish too small to eat
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2006-02-10
 tags: 
   - Nunavut

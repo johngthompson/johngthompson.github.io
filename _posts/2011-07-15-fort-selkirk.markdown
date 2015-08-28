@@ -2,7 +2,7 @@
 layout:	post
 title:	Where it all started
 publication:     Yukon News
-category:	Features
+category:	features
 date:	2011-07-15
 tags: 
   - Yukon

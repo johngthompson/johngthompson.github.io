@@ -3,7 +3,7 @@ layout:	post
 title:	True north strong and drivel-free
 subtitle:	Former cargo handler's poems deliver unflinching portrait of Nunavut's shame and splendour
 publication:     Nunatsiaq News
-category:	Features
+category:	features
 date:	2007-10-11
 tags: 
   - Nunavut

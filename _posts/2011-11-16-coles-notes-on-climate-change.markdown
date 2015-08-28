@@ -2,7 +2,7 @@
 layout:	post
 title:	Coles Notes on climate change
 publication:     Yukon News
-category:	Features
+category:	features
 date:	2011-11-16
 tags: 
   - Yukon

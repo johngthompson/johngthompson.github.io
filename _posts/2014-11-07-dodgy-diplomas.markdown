@@ -3,7 +3,7 @@ layout:	post
 title:	Don’t be dim about dodgy diplomas
 publication:     Yukon News editorial
 author:	Dr. John Thompson
-category:	Opinion
+category:	opinions
 date:	2014-11-07
 tags: 
   - Yukon
