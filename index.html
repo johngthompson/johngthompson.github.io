@@ -18,7 +18,8 @@ description: "Cool stories from Canada's North"
 
 <hr>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %} <!-- limit: 10 --> 
+<div class post>
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -29,13 +30,14 @@ description: "Cool stories from Canada's North"
         </h3>
         {% endif %}
         {% if post.awards %}
-        <i><h4 class="post-awards">
+        <i><h4 class="post-subtitle">
             {{ post.awards }}
         </h4></i>
         {% endif %}
         {{ post.excerpt }}
     </a>
-    <p class="post-category"><b><font style="text-transform: capitalize"><a href="/{{post.category | slugify}}"/>{{post.category}}</font></a></b><class="post-meta"> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-category"><b><a href="/{{post.category | slugify }}"/>{{post.category | capitalize}}</font></a></b><class="post-meta"> | {% if post.publication %}{{ post.publication }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
 </div>
 <hr>
 {% endfor %}
@@ -55,3 +57,7 @@ description: "Cool stories from Canada's North"
     {% endif %}
 </ul>
 {% endif %}
+
+<!-- 
+<div class="infinite-spinner"></div>
+-->

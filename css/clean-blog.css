@@ -167,7 +167,7 @@ hr.small {
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
-  line-height: 1.1;
+  line-height: 1.8em;
   display: block;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -184,7 +184,7 @@ hr.small {
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
-  line-height: 1.1;
+  line-height: 1.8em;
   display: block;
 }
 .intro-header .post-heading .subheading {
@@ -227,6 +227,7 @@ hr.small {
   margin: 0;
   font-weight: 400;
   margin-bottom: 10px;
+  line-height: 1.8em;
 }
 .post-preview > .post-meta {
   color: #808080;
@@ -398,4 +399,35 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #808080;
+}
+
+.infinite-spinner {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #333;
+  margin: 60px auto;
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+  0% { -webkit-transform: scale(0.0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleout {
+  0% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 100% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
 }
