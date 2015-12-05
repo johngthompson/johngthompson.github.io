@@ -3,8 +3,9 @@ title: John Thompson
 header-img: img/home-bg.jpg
 description: "John Thompson's journalism portfolio. Yukon News editor. Cool stories from northern Canada."
 baseurl: ""
-url: "johngthompson.com"
-production_url: "johngthompson.com"
+url: "https://johngthompson.com"
+enforce_ssl: "johngthompson.com"
+# production_url: "johngthompson.com"
 # twitter_username: jayjeetee
 # linkedin_username: johngthompson
 excerpt_separator: "<!-- BREAK -->"
