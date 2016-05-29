@@ -3,6 +3,7 @@ layout:	post
 title:	Call in the common-sense police
 publication:     Yukon News editorial
 category:	opinions
+awards: Winner of the Canadian Community Newspaper Association's award for best local editorial
 date:	2015-09-04
 tags: 
   - Yukon
