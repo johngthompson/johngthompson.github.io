@@ -6,7 +6,7 @@ description: "Investigative and in-depth reporting"
 
 <ul class="posts">
 {% for post in site.posts %}
-    {% if post.categories contains 'enterprise' %}
+    {% if post.categories contains 'Enterprise' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
