@@ -12,7 +12,7 @@ excerpt_separator: "<!-- BREAK -->"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+# highlighter: pygments
 permalink: /:categories/:title
 paginate: 50
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
